@@ -1,0 +1,2 @@
+1) user input in c++
+2) Where cin.get() is used??
