@@ -1,0 +1,20 @@
+Things taught in this lecture
+----------------
+1. Compilation process of code in c++
+2. What is IDE???
+3. From where execution of program start???
+4. What is cout???
+5. What is #include
+6. What is iostream
+7. What is "using namespace std";
+8. What is endl??
+9. What is int main()???
+10. What is .exe file???
+11. Whats are the different types of data types in C++ ??
+12. What is sizeof() ???
+13. How data is stored in the memory in c++ ??
+14. How -ve numbers are stored in the memory in c++ ??
+15. How char is stored in c++ ??
+16. What is type casting??
+17. What are operators in C++??
+18. 
